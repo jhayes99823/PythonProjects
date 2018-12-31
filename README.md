@@ -2,7 +2,7 @@
 
 ## Project 1 - Population and Volcanoe Map
   
-  + ## Languages
+  ## Languages
   + Python with Folium and Panda Libraries 
   + HTML Generated from python
 
@@ -13,13 +13,15 @@
   ![](PythonProjectsScreenShots/mapping_2.PNG)
   
   ## Project 2 - Website Blocker
-    + ## Languages
-    + Python
+   ## Languages
+   + Python
     
-    ### A simple python program that blocks websites between certain hours of the day anytime my computer starts
-    ### You can add as many or as few websites as you want
-    ### This way is effective because you don't have to rely on anyone turning it on, it just is on when it
-    ### is working hours, and when it's not you have access to all the websites you want
+   ### A simple python program that blocks websites between certain hours of the day anytime my computer starts
+   ### You can add as many or as few websites as you want
+   ### This way is effective because you don't have to rely on anyone turning it on, it just is on when it
+   ### is working hours, and when it's not you have access to all the websites you want
   
   
+    
+    
   
