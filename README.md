@@ -28,7 +28,7 @@
   
   ## Check out my btre_project repository for the other side of a project like this where I built a real estate look alike using Python and utilizing Django and PostGreSQL to build the backend.
   
-# COMING SOON Python Projects
+# COMING SOON - More Python Projects
 ## + Webcam Motion Detector
 ## + Database Application
 ## + Website with Python and Flask
